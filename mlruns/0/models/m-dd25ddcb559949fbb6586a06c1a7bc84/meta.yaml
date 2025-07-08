@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Ayaz%20Khan/Desktop/Chest-Cancer-Classification/mlruns/0/models/m-dd25ddcb559949fbb6586a06c1a7bc84/artifacts
+creation_timestamp: 1752001627528
+experiment_id: '0'
+last_updated_timestamp: 1752001642628
+model_id: m-dd25ddcb559949fbb6586a06c1a7bc84
+model_type: null
+name: model
+source_run_id: 648cfa743d1f4f07a490a17c33f50ebf
+status: 2
+status_message: null

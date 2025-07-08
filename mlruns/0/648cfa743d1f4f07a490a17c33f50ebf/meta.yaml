@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Ayaz%20Khan/Desktop/Chest-Cancer-Classification/mlruns/0/648cfa743d1f4f07a490a17c33f50ebf/artifacts
+end_time: 1752001642658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 648cfa743d1f4f07a490a17c33f50ebf
+run_name: nosy-newt-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752001627341
+status: 3
+tags: []
+user_id: Ayaz Khan

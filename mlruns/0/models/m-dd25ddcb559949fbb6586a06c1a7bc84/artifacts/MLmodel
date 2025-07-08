@@ -1,0 +1,20 @@
+artifact_path: file:///c:/Users/Ayaz%20Khan/Desktop/Chest-Cancer-Classification/mlruns/0/models/m-dd25ddcb559949fbb6586a06c1a7bc84/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.5
+mlflow_version: 3.1.1
+model_id: m-dd25ddcb559949fbb6586a06c1a7bc84
+model_size_bytes: 59141255
+model_uuid: m-dd25ddcb559949fbb6586a06c1a7bc84
+prompts: null
+run_id: 648cfa743d1f4f07a490a17c33f50ebf
+utc_time_created: '2025-07-08 19:07:07.599829'
